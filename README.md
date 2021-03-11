@@ -3,8 +3,8 @@ Simple Linux C Program Triangle
 
 #include <stdio.h>
 
-int main()
-{
+int main(){
+
     int side1, side2, side3;
     
     printf("Enter three sides of triangle: \n");
